@@ -1,0 +1,14 @@
+{
+  "D_MODEL": 64,
+  "SEQ_TYPE": "transformer",
+  "KNN": 5,
+  "HEADS": 4,
+  "USE_CNN": true,
+  "USE_SEQ": true,
+  "USE_TAB": true,
+  "USE_GRAPH": true,
+  "USE_MONOTONE_HEAD": true,
+  "CONFORMAL_ALPHA": 0.1,
+  "EOL_SOH": 0.8,
+  "INFERENCE_BATCH_SIZE": 512
+}
